@@ -1,2 +1,2 @@
 # Multi-person-Speech-Transcription
-# Multi-person Speech Transcription: pyannote_diarization_model + faster_whisper
+use pyannote_diarization_model (detected_num_speakers) and faster_whisper (transcribe_res)
